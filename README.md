@@ -1,6 +1,9 @@
 **Weather App**
 
 
+
+
+
 ## Overview
 
 AestheticWeather is a sleek weather application designed to provide real-time weather information based on user input or location. Its clean and intuitive interface makes checking the weather a delightful experience.
